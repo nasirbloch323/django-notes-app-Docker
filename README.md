@@ -1,4 +1,4 @@
-# 📝 Django Notes App
+# 📝 Django Notes App and Jenkins 
 > Deployed using Docker on AWS EC2
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
